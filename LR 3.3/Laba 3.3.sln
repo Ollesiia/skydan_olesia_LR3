@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba 3.3", "Laba 3.3\Laba 3.3.csproj", "{7501E9D0-FA41-4427-A517-87CA5AD34F54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7501E9D0-FA41-4427-A517-87CA5AD34F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7501E9D0-FA41-4427-A517-87CA5AD34F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7501E9D0-FA41-4427-A517-87CA5AD34F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7501E9D0-FA41-4427-A517-87CA5AD34F54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
